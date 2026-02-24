@@ -1,0 +1,1 @@
+Projeto de automação desenvolvido em Python utilizando PyAutoGUI para simular interações do usuário no sistema operacional, como abertura de aplicações, navegação na web e execução automática de pesquisas, com foco em otimização de tarefas repetitivas.
